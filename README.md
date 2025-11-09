@@ -11,6 +11,9 @@ AI Engineer with 2 years of experience building production-ready intelligent sys
 ## 🚀 Featured Projects
 
 ### 🧩 Fantasy24Club — AI-Driven FPL Ecosystem
+<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Fantasy24club.png?raw=true" width="90" align="left" />
+<br clear="left"/>
+
 *Machine Learning Deployment | LLM Chatbot | Production-Ready Backend*
 
 Fantasy24Club is a large-scale AI system powering a Fantasy Premier League (FPL) management app. It integrates ML prediction models and an intelligent LLM chatbot assistant to provide users with personalized squad recommendations, player point predictions, and live transfer suggestions.
@@ -26,6 +29,9 @@ Fantasy24Club is a large-scale AI system powering a Fantasy Premier League (FPL)
 ---
 
 ### 🎓 Student Performance Predictor
+<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Student_Performance.png?raw=true" width="90" align="left" />
+<br clear="left"/>
+
 *Supervised ML | Education Analytics*
 
 Predicts students' final grades based on socio-academic data using regression models trained on the UCI Student Dataset. Explores EDA, feature importance, and model evaluation metrics (R² up to 0.82).
@@ -36,6 +42,9 @@ Predicts students' final grades based on socio-academic data using regression mo
 ---
 
 ### 🧠 Topic Modeling — AWS NLP Project
+<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Topic_Modeling_Aws.png?raw=true" width="90" align="left" />
+<br clear="left"/>
+
 *Unsupervised ML | NLP | AWS Services*
 
 Implements topic modeling using Latent Dirichlet Allocation (LDA) on the CMU Movie Summary Corpus. Includes preprocessing, feature extraction, and visualization. Hands-on experience deploying and running NLP workloads on **AWS services**.
@@ -46,6 +55,9 @@ Implements topic modeling using Latent Dirichlet Allocation (LDA) on the CMU Mov
 ---
 
 ### 🖼️ Imagen App — AI Image Generator
+<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Imagenapp.png?raw=true" width="90" align="left" />
+<br clear="left"/>
+
 *Generative AI | Gemini API | Streamlit*
 
 A Streamlit-based app that generates and edits images using Google Gemini. Supports iterative editing and maintains a mini-gallery of generated images.
@@ -56,6 +68,9 @@ A Streamlit-based app that generates and edits images using Google Gemini. Suppo
 ---
 
 ### 🧮 Text Classification using PySpark
+<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Text_Classification.png?raw=true" width="90" align="left" />
+<br clear="left"/>
+
 *Big Data NLP | Spark ML Pipeline*
 
 PySpark ML project for classifying disaster tweets using Spark DataFrames and MLlib. Demonstrates scalable text preprocessing and classification at large scale.
