@@ -29,7 +29,7 @@ Fantasy24Club is a large-scale AI system powering a Fantasy Premier League (FPL)
 ---
 
 ### 🎓 Student Performance Predictor
-<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Student_Performance.png?raw=true" width="90" align="left" />
+<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Student_Performance.png?raw=true" width="90" align="left" />
 <br clear="left"/>
 
 *Supervised ML | Education Analytics*
