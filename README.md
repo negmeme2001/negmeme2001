@@ -11,7 +11,7 @@ AI Engineer with 2 years of experience building production-ready intelligent sys
 ## 🚀 Featured Projects
 
 ### 🧩 Fantasy24Club — AI-Driven FPL Ecosystem
-<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Fantasy24club.png?raw=true" width="90" align="left" />
+<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Fantasy24club.png?raw=true" width="90" align="left" />
 <br clear="left"/>
 
 *Machine Learning Deployment | LLM Chatbot | Production-Ready Backend*
@@ -42,7 +42,7 @@ Predicts students' final grades based on socio-academic data using regression mo
 ---
 
 ### 🧠 Topic Modeling — AWS NLP Project
-<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Topic_Modeling_Aws.png?raw=true" width="90" align="left" />
+<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Topic_Modeling_Aws.png?raw=true" width="90" align="left" />
 <br clear="left"/>
 
 *Unsupervised ML | NLP | AWS Services*
@@ -55,7 +55,7 @@ Implements topic modeling using Latent Dirichlet Allocation (LDA) on the CMU Mov
 ---
 
 ### 🖼️ Imagen App — AI Image Generator
-<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Imagenapp.png?raw=true" width="90" align="left" />
+<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Imagenapp.png?raw=true" width="90" align="left" />
 <br clear="left"/>
 
 *Generative AI | Gemini API | Streamlit*
@@ -68,7 +68,7 @@ A Streamlit-based app that generates and edits images using Google Gemini. Suppo
 ---
 
 ### 🧮 Text Classification using PySpark
-<img src="/media/mnegm/Negmos_Files/Artificial intelligence/Negmos workspace/negmeme2001/assets/Text_Classification.png?raw=true" width="90" align="left" />
+<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Text_Classification.png?raw=true" width="90" align="left" />
 <br clear="left"/>
 
 *Big Data NLP | Spark ML Pipeline*
