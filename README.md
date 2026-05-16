@@ -18,8 +18,6 @@ Latest production agent: **96.3% routing / 95.1% execution / 80% multi-turn accu
 ## 🚀 Featured Projects
 
 ### 📊 Peak Assistant Exporter — Prometheus Exporter for LLM Cost & Latency
-<img src="https://github.com/negmeme2001/negmeme2001/blob/main/assets/Fantasy24club.png?raw=true" width="90" align="left" />
-<br clear="left"/>
 
 *MLOps · Observability · Custom Prometheus Exporter*
 
@@ -151,7 +149,7 @@ PySpark ML project classifying disaster tweets. Scalable text preprocessing and 
 
 ### 🌐 Contact
 - 📧 **Email:** [mohamedahmednegm811@gmail.com](mailto:mohamedahmednegm811@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/mohamed-ahmed-42154220a](https://www.linkedin.com/in/mohamed-ahmed-42154220a)
+- 🔗 **LinkedIn:** [linkedin.com/in/mohamed-ahmed-negm](https://www.linkedin.com/in/mohamed-ahmed-negm/)
 - 💻 **GitHub:** [github.com/negmeme2001](https://github.com/negmeme2001)
 
 ---
