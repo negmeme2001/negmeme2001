@@ -8,20 +8,20 @@
 
 ---
 
-I build production LLM systems: tool-using agents, voice assistants and retrieval, with evaluation, authorization and cost tracking built in from the start.
+I build production LLM systems: tool-using agents, voice assistants and retrieval, with evaluation and authorization treated as part of the product.
 
-- **Now:** AI Engineer at **ProCrew (PeakTime)**, where I own Peak Assistant, the AI agent B2B customers use inside PeakTime. Part-time AI Engineer at **LamasaTech**, a UK self-service kiosk company, on Ravo AI, its voice-first AI concierge.
-- **Peak Assistant:** 15 tools with confirmation-gated write actions, role-based authorization across 24 intents, and an 85-case eval suite run weekly in CI (**93–97% routing**, **87–92% tool execution** on gpt-5-mini).
+- **Now:** AI Engineer at **ProCrew (PeakTime)**, where I own Peak Assistant, the AI assistant used by 10 B2B companies inside PeakTime. Part-time AI Engineer at **LamasaTech**, a UK self-service kiosk company, on Ravo AI, its voice-first AI concierge.
+- **Peak Assistant:** 15 tools with confirmation-gated write actions, role-based authorization across 24 intents, and an 85-case eval suite run weekly in CI (last 4 runs on 73 scored cases: **93–97% routing**, **87–92% tool execution**, gpt-5-mini).
 - **Open to:** AI Engineer roles, remote or relocation to the Gulf.
 
-> Most of my production work lives in private repos. The projects below are public.
+> Most of my production work lives in private repos. Below: selected public projects and production work.
 
 ---
 
 ## Featured projects
 
-### Ravo X-Ray: a voice assistant that shows where its time goes
-*Retail assistant in Arabic and English, typed and spoken, where every answer carries a latency trace.*
+### Ravo X-Ray: latency, eval and voice additions for Ravo
+*A demo on synthetic data: a bilingual (Arabic/English) RAG retail assistant, typed and spoken, where every answer carries a latency trace.*
 
 - Traces showed pgvector search costs **3–6 ms** while **~90%** of answer time is the LLM.
 - A Redis query-embedding cache cut embedding time from **~160 ms to ~3 ms**.
@@ -36,7 +36,7 @@ I build production LLM systems: tool-using agents, voice assistants and retrieva
 
 - Pipeline: injection guard → retrieval → agent ↔ tools, streamed over SSE.
 - Citations come from the retriever, never from the model's text. A relevance floor makes out-of-scope questions answer "not covered".
-- 94 tests, Docker Compose, and a zero-cost mode on Groq with local embeddings.
+- 82 unit and 12 integration tests, Docker Compose, and a zero-cost mode on Groq with local embeddings.
 
 **Stack:** LangGraph · FastAPI · FAISS · Streamlit · Pydantic · Docker  
 **Repo:** [coverpilot](https://github.com/negmeme2001/coverpilot)
@@ -48,7 +48,7 @@ A Python exporter that turns the assistant's MongoDB usage logs into Prometheus 
 **Repo:** [peak-assistant-exporter](https://github.com/negmeme2001/peak-assistant-exporter)
 
 ### Fantasy24Club: FPL predictions for 5,700 users (private)
-I'm the sole engineer. A FastAPI service serves AIrsenal Bayesian models for player-point predictions and transfer suggestions, alongside a GPT-4o assistant with real-time web search and English/Arabic intent routing.
+I'm the sole AI/ML engineer. A FastAPI service serves AIrsenal Bayesian models for player-point predictions and transfer suggestions, alongside a GPT-4o RAG assistant with real-time web search and English/Arabic intent routing.
 
 **Stack:** FastAPI · AIrsenal · Celery · Redis · GPT-4o · Tavily
 
