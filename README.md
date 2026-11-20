@@ -10,7 +10,7 @@
 
 I build production LLM systems: tool-using agents, voice assistants and retrieval, with evaluation, authorization and cost tracking built in from the start.
 
-- **Now:** AI Engineer at **ProCrew (PeakTime)**, where I own Peak Assistant, the AI agent B2B customers use inside PeakTime. Part-time AI Engineer at **LamasaTech (Ravo AI)**, a UK voice-AI startup.
+- **Now:** AI Engineer at **ProCrew (PeakTime)**, where I own Peak Assistant, the AI agent B2B customers use inside PeakTime. Part-time AI Engineer at **LamasaTech**, a UK self-service kiosk company, on Ravo AI, its voice-first AI concierge.
 - **Peak Assistant:** 15 tools with confirmation-gated write actions, role-based authorization across 24 intents, and an 85-case eval suite run weekly in CI (**93–97% routing**, **87–92% tool execution** on gpt-5-mini).
 - **Open to:** AI Engineer roles, remote or relocation to the Gulf.
 
